@@ -6,6 +6,7 @@ SwiftChart
 [![Platform](https://img.shields.io/cocoapods/p/SwiftChart.svg?style=flat)](http://cocoapods.org/pods/SwiftChart)
 
 A simple line and area charting library for iOS.
+MY NAME IS CAROLINE
 
 * 📈 Line and area charts 
 * 🌞 Multiple series 
